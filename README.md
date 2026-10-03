@@ -154,3 +154,6 @@ This project is developed for educational, portfolio, and development purposes.
 ---
 
 **SpendAI — Track. Analyze. Improve Your Finances.**
+
+                                                      Built with ❤️ by Umair Ansari
+
